@@ -1,3 +1,5 @@
+name: Welcome issue
+
 on:
   issues: {types: opened}
 
